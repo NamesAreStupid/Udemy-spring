@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Feb 08 16:14:48 CET 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Kevin\\.m2\\repository\\org\\springframework\\spring-web\\4.3.11.RELEASE\\spring-web-4.3.11.RELEASE.jar=WEB-INF/lib/spring-web-4.3.11.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Kevin\\.m2\\repository\\org\\springframework\\spring-web\\4.3.10.RELEASE\\spring-web-4.3.10.RELEASE.jar=WEB-INF/lib/spring-web-4.3.10.RELEASE.jar
