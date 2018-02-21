@@ -2,4 +2,5 @@
 <aop-reference-model>
 <aop-project name="web-customer-tracker"/>
 <aop-project name="spring-mvc-demo"/>
+<aop-project name="spring-demo-aop"/>
 </aop-reference-model>

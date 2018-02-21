@@ -14,7 +14,8 @@ public class TestJDBC {
 		String jdbcUrl = "jdbc:mysql://localhost/hb_student_tracker?useSSL=false";
 		String user ="hbstudent";
 		String pass= "hbstudent";
-		try {			Connection con = DriverManager.getConnection(jdbcUrl, user, pass);
+		try {			
+			Connection con = DriverManager.getConnection(jdbcUrl, user, pass);
 			System.out.println("success");
 		} catch (SQLException e) {
 			e.printStackTrace();
